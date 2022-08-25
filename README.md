@@ -3,9 +3,7 @@
 Seguir o passo a passo do site <a href="https://k6.io/docs/getting-started/installation/">k6<a/>
 
 ## Execução 
-```
-k6 run arquivo.js
-```
+```k6 run arquivo.js```
 
 ## Tipos de testes
 
